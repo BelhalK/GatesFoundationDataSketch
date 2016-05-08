@@ -23,4 +23,4 @@ If you want to run it on all of your datasets:
 $python sketch.py
 
 
-A message will appear at the end of the run on your terminal telling you how to open the generated file
+A message will appear at the end of the run on your terminal telling you how to open the generated file…
